@@ -1,8 +1,8 @@
 {
     "financial_summary": {
         "invested_value": 281142.52,
-        "current_value": 350487.76,
-        "pnl_value": 69345.24
+        "current_value": 322495.3,
+        "pnl_value": 41352.78
     },
     "current_holding_data": [
         {
@@ -14,9 +14,9 @@
             "total_amount": 9118.55,
             "min_datetime": "2023-06-09 10:28:18",
             "avg_price": 1139.82,
-            "close_price": 1452.1,
-            "close_amount": 11616.8,
-            "pnl_amount": 2498.25,
+            "close_price": 1190.05,
+            "close_amount": 9520.4,
+            "pnl_amount": 401.85,
             "history": [
                 {
                     "scrip_name": "ADANI PORTS LTD",
@@ -27,9 +27,9 @@
                     "total_amount": 9118.55,
                     "min_datetime": "2023-06-09 10:28:18",
                     "avg_price": 1139.82,
-                    "close_price": 1452.1,
-                    "close_amount": 11616.8,
-                    "pnl_amount": 2498.25
+                    "close_price": 1190.05,
+                    "close_amount": 9520.4,
+                    "pnl_amount": 401.85
                 }
             ]
         },
@@ -42,9 +42,9 @@
             "total_amount": 3501.13,
             "min_datetime": "2024-04-05 00:00:00",
             "avg_price": 139.15,
-            "close_price": 157.23,
-            "close_amount": 3955.91,
-            "pnl_amount": 454.78,
+            "close_price": 151.12,
+            "close_amount": 3802.18,
+            "pnl_amount": 301.05,
             "history": [
                 {
                     "scrip_name": "DSP BLACKROCK TAX SAVER FUND -",
@@ -55,9 +55,9 @@
                     "total_amount": 3501.13,
                     "min_datetime": "2024-04-05 00:00:00",
                     "avg_price": 139.15,
-                    "close_price": 157.23,
-                    "close_amount": 3955.91,
-                    "pnl_amount": 454.78
+                    "close_price": 151.12,
+                    "close_amount": 3802.18,
+                    "pnl_amount": 301.05
                 }
             ]
         },
@@ -70,9 +70,9 @@
             "total_amount": 34002.06,
             "min_datetime": "2021-07-13 00:00:00",
             "avg_price": 170.92,
-            "close_price": 243.72,
-            "close_amount": 48485.66,
-            "pnl_amount": 14483.6,
+            "close_price": 232.19,
+            "close_amount": 46191.88,
+            "pnl_amount": 12189.82,
             "history": [
                 {
                     "scrip_name": "HDFC INDEX FUND - NIFTY PLAN -",
@@ -83,9 +83,9 @@
                     "total_amount": 34002.06,
                     "min_datetime": "2021-07-13 00:00:00",
                     "avg_price": 170.92,
-                    "close_price": 243.72,
-                    "close_amount": 48485.66,
-                    "pnl_amount": 14483.6
+                    "close_price": 232.19,
+                    "close_amount": 46191.88,
+                    "pnl_amount": 12189.82
                 }
             ]
         },
@@ -98,9 +98,9 @@
             "total_amount": 102470.0,
             "min_datetime": "2024-04-12 10:13:19",
             "avg_price": 430.55,
-            "close_price": 513.85,
-            "close_amount": 122296.3,
-            "pnl_amount": 19826.3,
+            "close_price": 476.75,
+            "close_amount": 113466.5,
+            "pnl_amount": 10996.5,
             "history": [
                 {
                     "scrip_name": "I T C LTD",
@@ -111,9 +111,9 @@
                     "total_amount": 102470.0,
                     "min_datetime": "2024-04-12 10:13:19",
                     "avg_price": 430.55,
-                    "close_price": 513.85,
-                    "close_amount": 122296.3,
-                    "pnl_amount": 19826.3
+                    "close_price": 476.75,
+                    "close_amount": 113466.5,
+                    "pnl_amount": 10996.5
                 }
             ]
         },
@@ -154,9 +154,9 @@
             "total_amount": 6399.7,
             "min_datetime": "2024-03-07 11:14:59",
             "avg_price": 148.83,
-            "close_price": 167.25,
-            "close_amount": 7191.75,
-            "pnl_amount": 792.05,
+            "close_price": 149.3,
+            "close_amount": 6419.9,
+            "pnl_amount": 20.2,
             "history": [
                 {
                     "scrip_name": "INDIAN RAILWAY FINANCE",
@@ -167,9 +167,9 @@
                     "total_amount": 6399.7,
                     "min_datetime": "2024-03-07 11:14:59",
                     "avg_price": 148.83,
-                    "close_price": 167.25,
-                    "close_amount": 7191.75,
-                    "pnl_amount": 792.05
+                    "close_price": 149.3,
+                    "close_amount": 6419.9,
+                    "pnl_amount": 20.2
                 }
             ]
         },
@@ -182,9 +182,9 @@
             "total_amount": 14345.0,
             "min_datetime": "2020-03-16 00:00:00",
             "avg_price": 755.0,
-            "close_price": 805.2,
-            "close_amount": 15298.8,
-            "pnl_amount": 953.8,
+            "close_price": 700.6,
+            "close_amount": 13311.4,
+            "pnl_amount": -1033.6,
             "history": [
                 {
                     "scrip_name": "SBI CARDS",
@@ -195,9 +195,9 @@
                     "total_amount": 14345.0,
                     "min_datetime": "2020-03-16 00:00:00",
                     "avg_price": 755.0,
-                    "close_price": 805.2,
-                    "close_amount": 15298.8,
-                    "pnl_amount": 953.8
+                    "close_price": 700.6,
+                    "close_amount": 13311.4,
+                    "pnl_amount": -1033.6
                 }
             ]
         },
@@ -210,9 +210,9 @@
             "total_amount": 13965.0,
             "min_datetime": "2020-07-17 11:28:59",
             "avg_price": 735.0,
-            "close_price": 805.2,
-            "close_amount": 15298.8,
-            "pnl_amount": 1333.8,
+            "close_price": 700.6,
+            "close_amount": 13311.4,
+            "pnl_amount": -653.6,
             "history": [
                 {
                     "scrip_name": "SBI CARDS AND PAYMENT SERVICES",
@@ -223,9 +223,9 @@
                     "total_amount": 13965.0,
                     "min_datetime": "2020-07-17 11:28:59",
                     "avg_price": 735.0,
-                    "close_price": 805.2,
-                    "close_amount": 15298.8,
-                    "pnl_amount": 1333.8
+                    "close_price": 700.6,
+                    "close_amount": 13311.4,
+                    "pnl_amount": -653.6
                 }
             ]
         },
@@ -238,9 +238,9 @@
             "total_amount": 1549.08,
             "min_datetime": "2024-03-07 15:17:53",
             "avg_price": 14.08,
-            "close_price": 25.59,
-            "close_amount": 2814.9,
-            "pnl_amount": 1265.82,
+            "close_price": 20.11,
+            "close_amount": 2212.1,
+            "pnl_amount": 663.02,
             "history": [
                 {
                     "scrip_name": "SYNCOM FORMU (BSE INDONEXT)",
@@ -251,9 +251,9 @@
                     "total_amount": 1549.08,
                     "min_datetime": "2024-03-07 15:17:53",
                     "avg_price": 14.08,
-                    "close_price": 25.59,
-                    "close_amount": 2814.9,
-                    "pnl_amount": 1265.82
+                    "close_price": 20.11,
+                    "close_amount": 2212.1,
+                    "pnl_amount": 663.02
                 }
             ]
         },
@@ -266,9 +266,9 @@
             "total_amount": 13861.4,
             "min_datetime": "2024-04-08 09:58:30",
             "avg_price": 990.1,
-            "close_price": 993.15,
-            "close_amount": 13904.1,
-            "pnl_amount": 42.7,
+            "close_price": 786.45,
+            "close_amount": 11010.3,
+            "pnl_amount": -2851.1,
             "history": [
                 {
                     "scrip_name": "TATA MOTORS",
@@ -279,9 +279,9 @@
                     "total_amount": 13861.4,
                     "min_datetime": "2024-04-08 09:58:30",
                     "avg_price": 990.1,
-                    "close_price": 993.15,
-                    "close_amount": 13904.1,
-                    "pnl_amount": 42.7
+                    "close_price": 786.45,
+                    "close_amount": 11010.3,
+                    "pnl_amount": -2851.1
                 }
             ]
         },
@@ -294,9 +294,9 @@
             "total_amount": 17263.95,
             "min_datetime": "2022-02-03 10:31:23",
             "avg_price": 278.45,
-            "close_price": 476.05,
-            "close_amount": 29515.1,
-            "pnl_amount": 12251.15,
+            "close_price": 414.15,
+            "close_amount": 25677.3,
+            "pnl_amount": 8413.35,
             "history": [
                 {
                     "scrip_name": "TATA POWER",
@@ -307,9 +307,9 @@
                     "total_amount": 17263.95,
                     "min_datetime": "2022-02-03 10:31:23",
                     "avg_price": 278.45,
-                    "close_price": 476.05,
-                    "close_amount": 29515.1,
-                    "pnl_amount": 12251.15
+                    "close_price": 414.15,
+                    "close_amount": 25677.3,
+                    "pnl_amount": 8413.35
                 }
             ]
         },
@@ -322,9 +322,9 @@
             "total_amount": 36677.2,
             "min_datetime": "2022-08-23 10:59:19",
             "avg_price": 3667.72,
-            "close_price": 4522.6,
-            "close_amount": 45226.0,
-            "pnl_amount": 8548.8,
+            "close_price": 4270.85,
+            "close_amount": 42708.5,
+            "pnl_amount": 6031.3,
             "history": [
                 {
                     "scrip_name": "TCS LTD",
@@ -335,9 +335,9 @@
                     "total_amount": 36677.2,
                     "min_datetime": "2022-08-23 10:59:19",
                     "avg_price": 3667.72,
-                    "close_price": 4522.6,
-                    "close_amount": 45226.0,
-                    "pnl_amount": 8548.8
+                    "close_price": 4270.85,
+                    "close_amount": 42708.5,
+                    "pnl_amount": 6031.3
                 }
             ]
         },
@@ -350,9 +350,9 @@
             "total_amount": 69.2,
             "min_datetime": "2024-01-01 11:28:14",
             "avg_price": 17.3,
-            "close_price": 13.41,
-            "close_amount": 53.64,
-            "pnl_amount": -15.56,
+            "close_price": 8.36,
+            "close_amount": 33.44,
+            "pnl_amount": -35.76,
             "history": [
                 {
                     "scrip_name": "VODAFONE IDEA LTD",
@@ -363,9 +363,9 @@
                     "total_amount": 69.2,
                     "min_datetime": "2024-01-01 11:28:14",
                     "avg_price": 17.3,
-                    "close_price": 13.41,
-                    "close_amount": 53.64,
-                    "pnl_amount": -15.56
+                    "close_price": 8.36,
+                    "close_amount": 33.44,
+                    "pnl_amount": -35.76
                 }
             ]
         }
@@ -2725,10 +2725,10 @@
         },
         {
             "date": "2020-09-16",
-            "open": 3981.91,
-            "high": 3981.91,
-            "low": 3981.46,
-            "close": 3981.61,
+            "open": 3828.18,
+            "high": 3828.18,
+            "low": 3827.73,
+            "close": 3827.88,
             "holding": 15354.98
         },
         {
@@ -3509,10 +3509,10 @@
         },
         {
             "date": "2020-12-23",
-            "open": 12305.09,
-            "high": 12759.38,
-            "low": 12166.16,
-            "close": 12525.38,
+            "open": 11660.52,
+            "high": 12000.0,
+            "low": 11430.0,
+            "close": 11753.53,
             "holding": 17304.98
         },
         {
@@ -5405,26 +5405,26 @@
         },
         {
             "date": "2021-08-17",
-            "open": 49002.34,
-            "high": 49307.08,
-            "low": 48057.55,
-            "close": 48725.36,
+            "open": 46618.74,
+            "high": 47226.68,
+            "low": 45808.75,
+            "close": 46628.96,
             "holding": 29973.65
         },
         {
             "date": "2021-08-18",
-            "open": 48852.09,
-            "high": 49516.04,
-            "low": 48469.61,
-            "close": 48991.62,
+            "open": 46468.49,
+            "high": 47435.64,
+            "low": 46220.81,
+            "close": 46895.22,
             "holding": 29973.65
         },
         {
             "date": "2021-08-19",
-            "open": 48852.09,
-            "high": 49516.04,
-            "low": 48469.61,
-            "close": 48991.62,
+            "open": 46468.49,
+            "high": 47435.64,
+            "low": 46220.81,
+            "close": 46895.22,
             "holding": 29973.65
         },
         {
@@ -14533,258 +14533,498 @@
         },
         {
             "date": "2024-10-01",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 400695.73,
+            "high": 403428.9,
+            "low": 397603.08,
+            "close": 399374.07,
             "holding": 270636.51
         },
         {
             "date": "2024-10-02",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 400695.73,
+            "high": 403428.9,
+            "low": 397603.08,
+            "close": 399374.07,
             "holding": 270636.51
         },
         {
             "date": "2024-10-03",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 394321.47,
+            "high": 397666.24,
+            "low": 390547.07,
+            "close": 393448.51,
             "holding": 270636.51
         },
         {
             "date": "2024-10-04",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 392528.37,
+            "high": 396929.45,
+            "low": 387918.92,
+            "close": 390007.57,
             "holding": 270636.51
         },
         {
             "date": "2024-10-05",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 392528.37,
+            "high": 396929.45,
+            "low": 387918.92,
+            "close": 390007.57,
             "holding": 270636.51
         },
         {
             "date": "2024-10-06",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 392528.37,
+            "high": 396929.45,
+            "low": 387918.92,
+            "close": 390007.57,
             "holding": 270636.51
         },
         {
             "date": "2024-10-07",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 391476.51,
+            "high": 394710.04,
+            "low": 384261.1,
+            "close": 387513.99,
             "holding": 270636.51
         },
         {
             "date": "2024-10-08",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 387584.05,
+            "high": 394198.1,
+            "low": 384548.1,
+            "close": 390802.43,
             "holding": 270636.51
         },
         {
             "date": "2024-10-09",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 392004.74,
+            "high": 395115.77,
+            "low": 385708.55,
+            "close": 387629.97,
             "holding": 270636.51
         },
         {
             "date": "2024-10-10",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 389634.38,
+            "high": 391976.55,
+            "low": 385095.11,
+            "close": 387776.19,
             "holding": 270636.51
         },
         {
             "date": "2024-10-11",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 388120.13,
+            "high": 390299.71,
+            "low": 384171.17,
+            "close": 385335.34,
             "holding": 270636.51
         },
         {
             "date": "2024-10-12",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 388120.13,
+            "high": 390299.71,
+            "low": 384171.17,
+            "close": 385335.34,
             "holding": 270636.51
         },
         {
             "date": "2024-10-13",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 388120.13,
+            "high": 390299.71,
+            "low": 384171.17,
+            "close": 385335.34,
             "holding": 270636.51
         },
         {
             "date": "2024-10-14",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 386488.47,
+            "high": 392805.24,
+            "low": 384108.71,
+            "close": 390390.54,
             "holding": 270636.51
         },
         {
             "date": "2024-10-15",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 391000.05,
+            "high": 393816.16,
+            "low": 386791.24,
+            "close": 389323.89,
             "holding": 270636.51
         },
         {
             "date": "2024-10-16",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 388486.62,
+            "high": 391148.8,
+            "low": 385360.86,
+            "close": 387320.68,
             "holding": 270636.51
         },
         {
             "date": "2024-10-17",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 388110.7,
+            "high": 389672.61,
+            "low": 381974.61,
+            "close": 383464.99,
             "holding": 270636.51
         },
         {
             "date": "2024-10-18",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 383754.66,
+            "high": 386299.88,
+            "low": 377655.58,
+            "close": 383720.39,
             "holding": 270636.51
         },
         {
             "date": "2024-10-19",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 383754.66,
+            "high": 386299.88,
+            "low": 377655.58,
+            "close": 383720.39,
             "holding": 270636.51
         },
         {
             "date": "2024-10-20",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 383754.66,
+            "high": 386299.88,
+            "low": 377655.58,
+            "close": 383720.39,
             "holding": 270636.51
         },
         {
             "date": "2024-10-21",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 384173.71,
+            "high": 385718.77,
+            "low": 377878.44,
+            "close": 380297.53,
             "holding": 270636.51
         },
         {
             "date": "2024-10-22",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 378946.1,
+            "high": 381150.91,
+            "low": 371782.38,
+            "close": 372783.66,
             "holding": 270636.51
         },
         {
             "date": "2024-10-23",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 371711.37,
+            "high": 377274.79,
+            "low": 369008.47,
+            "close": 372956.42,
             "holding": 270636.51
         },
         {
             "date": "2024-10-24",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 373127.42,
+            "high": 375432.89,
+            "low": 366859.75,
+            "close": 369106.27,
             "holding": 270636.51
         },
         {
             "date": "2024-10-25",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 370561.67,
+            "high": 377091.69,
+            "low": 366236.08,
+            "close": 370638.78,
             "holding": 270636.51
         },
         {
             "date": "2024-10-26",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 370561.67,
+            "high": 377091.69,
+            "low": 366236.08,
+            "close": 370638.78,
             "holding": 270636.51
         },
         {
             "date": "2024-10-27",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 370561.67,
+            "high": 377091.69,
+            "low": 366236.08,
+            "close": 370638.78,
             "holding": 270636.51
         },
         {
             "date": "2024-10-28",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 372190.86,
+            "high": 379554.09,
+            "low": 368673.21,
+            "close": 374903.29,
             "holding": 270636.51
         },
         {
             "date": "2024-10-29",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 376203.26,
+            "high": 379757.21,
+            "low": 371934.16,
+            "close": 376624.27,
             "holding": 270636.51
         },
         {
             "date": "2024-10-30",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 377246.66,
+            "high": 380901.75,
+            "low": 375186.88,
+            "close": 378105.49,
             "holding": 270636.51
         },
         {
             "date": "2024-10-31",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 377246.66,
+            "high": 380901.75,
+            "low": 375186.88,
+            "close": 378105.49,
             "holding": 270636.51
         },
         {
             "date": "2024-11-01",
-            "open": 399701.68,
-            "high": 404037.24,
-            "low": 396070.32,
-            "close": 400338.26,
+            "open": 383653.25,
+            "high": 384675.52,
+            "low": 379881.28,
+            "close": 381539.43,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-02",
+            "open": 383653.25,
+            "high": 384675.52,
+            "low": 379881.28,
+            "close": 381539.43,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-03",
+            "open": 383653.25,
+            "high": 384675.52,
+            "low": 379881.28,
+            "close": 381539.43,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-04",
+            "open": 381694.1,
+            "high": 382750.5,
+            "low": 373018.2,
+            "close": 375889.55,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-05",
+            "open": 376070.49,
+            "high": 379255.32,
+            "low": 371710.28,
+            "close": 374887.72,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-06",
+            "open": 377476.76,
+            "high": 383193.67,
+            "low": 375015.44,
+            "close": 380829.07,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-07",
+            "open": 381863.35,
+            "high": 383041.52,
+            "low": 376086.5,
+            "close": 378035.02,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-08",
+            "open": 378400.54,
+            "high": 379973.56,
+            "low": 373685.56,
+            "close": 376335.55,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-09",
+            "open": 378400.54,
+            "high": 379973.56,
+            "low": 373685.56,
+            "close": 376335.55,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-10",
+            "open": 378400.54,
+            "high": 379973.56,
+            "low": 373685.56,
+            "close": 376335.55,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-11",
+            "open": 375819.94,
+            "high": 378895.19,
+            "low": 369655.3,
+            "close": 372298.06,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-12",
+            "open": 372701.39,
+            "high": 373978.89,
+            "low": 364292.06,
+            "close": 365707.77,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-13",
+            "open": 364724.65,
+            "high": 368254.87,
+            "low": 360407.43,
+            "close": 363890.25,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-14",
+            "open": 364115.98,
+            "high": 366333.36,
+            "low": 359719.81,
+            "close": 361970.74,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-15",
+            "open": 364115.98,
+            "high": 366333.36,
+            "low": 359719.81,
+            "close": 361970.74,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-16",
+            "open": 364115.98,
+            "high": 366333.36,
+            "low": 359719.81,
+            "close": 361970.74,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-17",
+            "open": 364115.98,
+            "high": 366333.36,
+            "low": 359719.81,
+            "close": 361970.74,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-18",
+            "open": 363179.24,
+            "high": 365432.13,
+            "low": 357329.22,
+            "close": 360341.11,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-19",
+            "open": 361892.8,
+            "high": 369353.01,
+            "low": 360718.78,
+            "close": 363804.95,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-20",
+            "open": 361892.8,
+            "high": 369353.01,
+            "low": 360718.78,
+            "close": 363804.95,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-21",
+            "open": 360686.1,
+            "high": 362854.09,
+            "low": 354565.81,
+            "close": 357804.31,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-22",
+            "open": 358555.02,
+            "high": 370957.04,
+            "low": 357108.44,
+            "close": 368015.83,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-23",
+            "open": 358555.02,
+            "high": 370957.04,
+            "low": 357108.44,
+            "close": 368015.83,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-24",
+            "open": 358555.02,
+            "high": 370957.04,
+            "low": 357108.44,
+            "close": 368015.83,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-25",
+            "open": 372070.33,
+            "high": 377165.12,
+            "low": 368075.82,
+            "close": 372274.87,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-26",
+            "open": 374556.35,
+            "high": 376510.73,
+            "low": 369729.06,
+            "close": 372532.79,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-27",
+            "open": 373234.82,
+            "high": 377023.6,
+            "low": 369843.07,
+            "close": 374389.0,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-28",
+            "open": 374179.07,
+            "high": 377940.85,
+            "low": 369893.46,
+            "close": 372469.56,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-29",
+            "open": 373165.7,
+            "high": 377655.63,
+            "low": 370430.68,
+            "close": 374291.55,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-11-30",
+            "open": 373165.7,
+            "high": 377655.63,
+            "low": 370430.68,
+            "close": 374291.55,
+            "holding": 270636.51
+        },
+        {
+            "date": "2024-12-01",
+            "open": 373165.7,
+            "high": 377655.63,
+            "low": 370430.68,
+            "close": 374291.55,
             "holding": 270636.51
         }
     ],
@@ -15592,7 +15832,7 @@
             {
                 "segment": "EQ",
                 "symbol": "HAPPSTMNDS",
-                "dividend_amount": 268.5,
+                "dividend_amount": 306.0,
                 "data": [
                     {
                         "financial_year": "FY2021-22",
@@ -15638,11 +15878,15 @@
                     },
                     {
                         "financial_year": "FY2024-25",
-                        "dividend_amount": 48.75,
+                        "dividend_amount": 86.25,
                         "data": [
                             {
                                 "date": "2024-06-14",
                                 "dividend_amount": 48.75
+                            },
+                            {
+                                "date": "2024-11-27",
+                                "dividend_amount": 37.5
                             }
                         ]
                     }
@@ -15651,15 +15895,19 @@
             {
                 "segment": "EQ",
                 "symbol": "IRFC",
-                "dividend_amount": 30.1,
+                "dividend_amount": 64.5,
                 "data": [
                     {
                         "financial_year": "FY2024-25",
-                        "dividend_amount": 30.1,
+                        "dividend_amount": 64.5,
                         "data": [
                             {
                                 "date": "2024-08-22",
                                 "dividend_amount": 30.1
+                            },
+                            {
+                                "date": "2024-11-12",
+                                "dividend_amount": 34.4
                             }
                         ]
                     }
@@ -15798,7 +16046,7 @@
             {
                 "segment": "EQ",
                 "symbol": "TCS",
-                "dividend_amount": 689.0,
+                "dividend_amount": 789.0,
                 "data": [
                     {
                         "financial_year": "FY2022-23",
@@ -15838,7 +16086,7 @@
                     },
                     {
                         "financial_year": "FY2024-25",
-                        "dividend_amount": 380.0,
+                        "dividend_amount": 480.0,
                         "data": [
                             {
                                 "date": "2024-05-16",
@@ -15846,6 +16094,10 @@
                             },
                             {
                                 "date": "2024-07-19",
+                                "dividend_amount": 100.0
+                            },
+                            {
+                                "date": "2024-10-18",
                                 "dividend_amount": 100.0
                             }
                         ]
@@ -15872,7 +16124,7 @@
             },
             {
                 "financial_year": "FY2024-25",
-                "dividend_amount": 2454.85
+                "dividend_amount": 2626.75
             }
         ]
     }
